@@ -1,0 +1,60 @@
+# Global configuration
+minplayers: 2
+lobby_time_to_start: 60
+lobby_time_to_start_nextgame: 10
+
+# Games configuration 
+swordwars_kills_to_win: 60 
+swordwars_time_to_end: 1200
+
+oitc_kills_to_win: 90
+oitc_time_to_end: 1200
+
+hoechanger_change_blocks_to_win: 220
+hoechanger_time_to_end: 70
+
+paintball_kills_to_win: 40
+paintball_time_to_end: 280
+
+mining_submit_blocks_to_win: 60
+mining_time_to_end: 420
+
+# SwordWars shop (Cost items) 
+
+iron_helmet: 2
+iron_chestplate: 4
+iron_leggings: 3
+iron_boots: 2
+iron_sword: 4
+
+# This part of configuration not intended for adjustment 
+# If anything changes occur error
+
+game_enable: false
+lobby: false
+spectator: false
+end_lobby: false
+swordwars_spawn_red: false
+swordwars_spawn_blue: false
+swordwars_spawn_spectator: false
+oitc_spawn_red: false
+oitc_spawn_blue: false
+oitc_spawn_spectator: false
+hoechanger_spawn_red: false
+hoechanger_spawn_blue: false
+hoechanger_spawn_spectator: false
+paintball_spawn_red: false
+paintball_spawn_blue: false
+paintball_spawn_spectator: false
+mining_spawn_red: false
+mining_spawn_blue: false
+mining_spawn_spectator: false
+firework_spawn_one: false
+firework_spawn_two: false
+
+Top:
+  Fanatixteam:
+     Kills: 10
+  Fanatixteamm:
+     Kills: 12
+

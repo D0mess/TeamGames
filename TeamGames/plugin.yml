@@ -1,0 +1,12 @@
+name: TeamGames
+main: me.Fanatixteam.TG.TeamGames
+version: 1.1
+author: Fanatixteam
+description: Fun Team Games
+commands:
+  teamgames:
+    description: Main command.
+  stats:
+    description: Stats command.
+  endstats:
+    description: End-Stats command.  

@@ -1,7 +1,7 @@
 name: TeamGames
-main: me.Fanatixteam.TG.TeamGames
+main: me.D0mess.TG.TeamGames
 version: 1.1
-author: Fanatixteam
+author: D0mess
 description: Fun Team Games
 commands:
   teamgames:

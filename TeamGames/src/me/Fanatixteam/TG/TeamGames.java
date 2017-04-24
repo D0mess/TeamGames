@@ -52,6 +52,8 @@ public class TeamGames extends JavaPlugin implements Listener {
                  e.printStackTrace();
              }
          }
+         
+         //fall
 
          FileConfiguration config = YamlConfiguration.loadConfiguration(f);
          for (String message : config.getConfigurationSection("").getKeys(false)) {

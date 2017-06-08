@@ -1,8 +1,8 @@
 package me.D0mess.TG;
 
 public class GetterInt {
-
-   //test
+	
+	//test 123
 	
 	  public static int minplayers()
 	  {
